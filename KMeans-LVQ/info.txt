@@ -1,9 +1,14 @@
 "For Kmeans"
 
-Every time you run the main code, the dispersion value is saved in the file "Dispersion_Values"
-I already run the main code for each cluster 2,3,4,5,6,7,10 so i already have 7 values in my file.
+	Every time you run the main code, the dispersion value is saved in the file "Dispersion_Values"
+	I already run the main code for each cluster 2,3,4,5,6,7,10 so i already have 7 values in my file.
 
-If you want to run your own tests (with your desired value of clusters), simply delete the "Dispersion_Values.txt" file 
-			        and the main code is going to create it, once you run it.
+	If you want to run your own tests (with your desired value of clusters), simply delete the "Dispersion_Values.txt" file 
+					and the main code is going to create it, once you run it.
 
+--- how to run the MATLAB scripts --- :
 
+open dispersion_plot.m (uses the file Dispersion_Values.txt) and simply run the code to visualize the results.
+open kmeans_plot.m (uses the KMeans_Centers.txt and KMeans_Clusters.txt) and simply run the code to visualize the results.
+
+open lvq_plot.m (uses the LVQ_Centers.txt and LVQ_Clusters.txt) and simply run the code to visualize the results.
