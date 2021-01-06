@@ -4,7 +4,7 @@
 	I already run the main code for each cluster 2,3,4,5,6,7,10 so i already have 7 values in my file.
 
 	If you want to run your own tests (with your desired value of clusters), simply delete the "Dispersion_Values.txt" file 
-					and the main code is going to create it, once you run it.
+					and the main code is going to recreate it, once you run it.
 
 --- how to run the MATLAB scripts --- :
 
